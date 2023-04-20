@@ -45,4 +45,18 @@
 
 - Does the availability or better quality door delivery, drive through increase sales? (May be difficult to compare with other companies since access to their sales data is less likely, but if this company has branches w/o drive-throughs or that do not provide door deliveries, we can compare with them)
 
-- 
+- Does speed of service attract more customers? (again, could be hard to compare with competitors, but can compare with branches - less staffed branches, branches in busy metropolitan areas with high customer traffic.. etc..)
+
+- To what degree customer satisfaction affects sales? Do the costomers who claimed to be highly satisfied revisit frequently compared to others?
+
+- Does having a nice and calm dining place (family oriented) attract more customers or a party-themed dining place attracts more customers? What are the odds of having separate dining sections for the different targets, so we can attract more customers in general. (again, hard to compare with competitors, but can use other branches..)
+
+- How does the prices impact sales? (Can be difficult to get the sales data of competitors, but one could get their prices and predict the differences n=based on how differently priced pizzas made by this company sell. Like, do people often buy small, cheap ones or medium ones ... etc.)
+
+- How does having a speed delivery system benift sales? (Analyze what types of delivery vehicles are used by the competitors and how many of them are in service.)
+
+- Does having many options to choose from help boost sales? Study the types & sizes of pizzas offered by competitors. To get monetary statistics, we could leverage the data from branches that do not provide that many options for whatever reasons (short staffed, less customers, raw materials being pricy in that locale ..etc) 
+
+### ___Include summary statistics for quantitative variables___
+### ___Plot the correlations of select variables with sales.___
+### ___Use simple, informative visualizations (scatter plots, bar charts, histograms) to clearly convey the trends.___
